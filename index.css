@@ -29,6 +29,7 @@ header h1 {
 header h1 a {
     color: white;
     text-decoration: none;
+    margin-left: 15px;
 }
 
 h2{
@@ -64,6 +65,15 @@ section#img {
     height: 780px;
     color: white;
     text-align: center;
+}
+
+section#img2 {
+    background-image: url(./img/japon2.jpg);
+    width: 1200px;
+    height: 780px;
+    color: white;
+    text-align: center;
+    font-size: 15px;
 }
 
 @media (min-width: 700px;) {
